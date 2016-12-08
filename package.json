@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "node web server",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "radelmann",
+  "license": "MIT"
+}
